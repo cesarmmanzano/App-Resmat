@@ -9,3 +9,8 @@ Aplicativo que, dado um problema de carregamento axial, calcula a tensão média
 <p> • <a href= "https://expo.io/"/> Expo </a>: Usado para desenvolvimento mobile do App. </p>
 <p>   - Para instalar: npm install expo-cli</p>
 
+<p> • <a href= "https://reactnavigation.org/docs/getting-started/"/> React-Navigation </a>: Usado para desenvolvimento de algumas features do projeto. </p>
+<p>   - Para instalar: npm install @react-navigation/native</p>
+<p>   - Para instalar: npm install @react-navigation/drawer</p>
+<p> OBS: Necessario instalar o drawer separadamente.</p>
+
