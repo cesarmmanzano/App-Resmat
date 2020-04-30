@@ -12,5 +12,12 @@ Aplicativo que, dado um problema de carregamento axial, calcula a tensão média
 <p> • <a href= "https://reactnavigation.org/docs/getting-started/"/> React-Navigation </a>: Usado para desenvolvimento de algumas features do projeto. </p>
 <p>   - Para instalar: npm install @react-navigation/native</p>
 <p>   - Para instalar: npm install @react-navigation/drawer</p>
+<p>   - Para instalar: npm install @react-navigation/stack</p>
+
 <p> OBS: Necessario instalar o drawer separadamente.</p>
+
+
+<p> • <a href = "https://github.com/react-ui-kit/expo-ui-kit"/> Expo-Ui-Kit </a>: Biblioteca amadora que tem varias funcionalidades que facilitam o desenvolvimento com o Expo </p>
+<p> OBS: Para instalar é necessario ter o <a href= "https://yarnpkg.com/"/> Yarn</a>.</p>
+<p>   - Para instalar: yarn add expo-ui-kit</p>
 
