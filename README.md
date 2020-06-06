@@ -1,5 +1,5 @@
 # App Resmat
-Aplicativo que, dado um problema de carregamento axial, calcula a tensão média em seções transversais determinadas e cria o diagrama de esforço axial
+Aplicativo que, dado um problema de carregamento axial, calcula a tensão média, a reação de apoio e a deformação determinadas em seções transversais e cria o diagrama de esforço axial
 
 <h2> Bibliotecas Utilizadas </h2>
 
