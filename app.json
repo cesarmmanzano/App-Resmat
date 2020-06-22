@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Carregamento Axial",
+    "slug": "resmatCarrgamentoAxial",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Carregamento_axial.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E6E6FA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.puccampinas.carregamentoaxial"
+    },
+    "android":{
+      "package": "com.puccampinas.carregamentoaxial"
+    }
+  }
+}
